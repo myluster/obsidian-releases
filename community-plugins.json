@@ -18436,5 +18436,12 @@
     "author": "Leafney",
     "description": "View XMind files in your vault and connect to XMind software for editing.",
     "repo": "leafney/obsidian-xmind-linker"
+  },
+  {
+    "id": "latex-panel-helper",
+    "name": "LaTeX Panel Helper",
+    "author": "Luster",
+    "description": "A powerful and convenient LaTeX symbol panel for Obsidian to enhance your mathematical and scientific note-taking efficiency.",
+    "repo": "myluster/Obsidian-LaTeX-Helper"
   }
 ]
